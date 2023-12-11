@@ -8,6 +8,8 @@
   --floppy-size: 21px;
   --modal-padding-inline: 30px;
 
+  --padding-button: 4px 105px;
+
   --card-inline-size: clamp(min(100%, 375px), 50vw, 700px);
 
   --heart-color: #ff0000;
@@ -40,5 +42,6 @@
   :root {
     --floppy-size: 28px;
     --modal-padding-inline: 40px;
+    --padding-button: 4px 102px;
   }
 }
